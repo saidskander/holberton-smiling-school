@@ -280,15 +280,6 @@ footer p {
 }
 
 /* courses */
-.courses-hero h2 {
-  font-family: Coiny;
-  line-height: 1.6rem;
-}
-
-.courses-dropdown {
-  background-color: #C271FF;
-}
-
 .ph::placeholder {
   color: white;
   font-size: 1.2rem;
@@ -298,6 +289,15 @@ footer p {
 .search-form {
   background-color: #d89df9;
   border-bottom: white;
+}
+
+.courses-hero h2 {
+  font-family: Coiny;
+  line-height: 1.6rem;
+}
+
+.courses-dropdown {
+  background-color: #C271FF;
 }
 
 .above-box {
