@@ -1,6 +1,6 @@
-# Implement a design from scratch
+# Implement a design with bootstrap
 
-#### this project is a web page.with all HTML/CSS/Accessibility/Responsive design knowledges.
+#### this project is a web page.with all HTML/CSS/Accessibility/bootstrap/Responsive design knowledges.
 
 
 ## Project concept:
@@ -13,16 +13,16 @@
 
 | ______________________________________________Final project responsive design____________      _________________________________  |
 | ------ |
-| <img src="https://github.com/saidskander/holberton-headphones/blob/master/images/final.jpg" width=""> |
+| <img src="https://github.com/saidskander/holberton-smiling-school/blob/master/images/final.jpg" width=""> |
 
 
 ## Tech
 
 
 - [HTML5] - awesome web-based text editor HTML enhanced for web apps!
-- [CSS] - Implement a design from scratch
+- [CSS] - design from scratch with bootstrap
 - [Sass & Scss] - Sass & Scss, Implement a design from scratch.
-
+- [bootstrap] - Implement Responsive Design (I.R.D)
 ## Author
 ```sh
 https://github.com/saidskander/
