@@ -50,7 +50,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
 
 .header {
   width: 100%;
-  background-image: url("Images/images/pic_1.jpg");
+  background-image: url("images/pic_1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0;
@@ -505,7 +505,7 @@ html{line-height:1.15;-webkit-text-size-adjust:100%}body{margin:0}main{display:b
   ============================= */
 .header-pricing {
   width: 100%;
-  background-image: url("Images/images/pic_2.jpg");
+  background-image: url("images/pic_2.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0;
@@ -569,7 +569,7 @@ th, .table thead th {
 
 .header-courses {
   width: 100%;
-  background-image: url("Images/images/pic_3.jpg");
+  background-image: url("images/pic_3.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 0;
